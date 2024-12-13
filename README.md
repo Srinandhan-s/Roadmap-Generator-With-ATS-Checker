@@ -1,7 +1,3 @@
-Here’s a professional description for your GitHub project:
-
----
-
 # CareerPath Roadmap Generator with ATS Score Checker
 
 This project provides a comprehensive solution for students and job seekers by generating personalized career roadmaps based on specified job descriptions. It aims to simplify career planning by identifying relevant study materials and skills, while also helping users optimize their resumes for Applicant Tracking Systems (ATS).
@@ -21,10 +17,6 @@ This project provides a comprehensive solution for students and job seekers by g
 
 ### Technology Stack:
 - **Frontend**: HTML, CSS, JavaScript (React/Angular optional)  
-- **Backend**: Node.js/Python (Flask/Django)  
-- **Database**: MongoDB/MySQL  
-- **Integration**: NLP libraries for ATS analysis (e.g., spaCy, NLTK)  
-
 ### Installation:
 1. Clone the repository:  
    ```bash
