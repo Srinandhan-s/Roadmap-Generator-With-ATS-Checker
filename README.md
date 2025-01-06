@@ -22,7 +22,7 @@ Navigating career paths can be overwhelming. **CareerPath** simplifies this proc
 
 ## 🚀 Preview  
 ![Preview Screenshot](#)  
-*Add a screenshot or GIF showcasing your website’s functionality here.*
+
 
 ---
 
